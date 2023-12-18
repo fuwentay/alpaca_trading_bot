@@ -1,1 +1,1 @@
-# Oxford Finance Society - Trading Bot Project (Michaelmas 2023/2024)
+# Trading Bot Project (Michaelmas 2023/2024)
